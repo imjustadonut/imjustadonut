@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">I'm Corbin, a 13 year old student developer.<br><br>- 🔭 I’m studying as an ML Software Developer/Engineer<br>- 📚 I'm currently learning <br>- ⚡ In my free time I ...</h4>
+<h4 align="left">I'm Corbin, a 13 year old student developer.<br><br>- 🔭 I’m studying as an ML Software Developer/Engineer<br>- 📚 I'm currently learning <br>- ⚡ In my free time I code or ride my bike to the local starbucks that everybody (including the manager) knows me at. Idk if that's good or bad. :|</h4>
 
 ###
 
